@@ -6,7 +6,7 @@ This is a simple state management library implementation (similar to redux) that
 ## Characteristics:  
 **Centralized Store** -  The application state is stored in a single object (store state)  
 **Reactive** - Components auto-update when associated state changes.  
-**Predictable** State Changes - The state changes are done predictably with the help of reducer functions.  
+**Predictable** - The state changes are done predictably with the help of reducer functions.  
 **Immutable** - The store state cannot be modified directly.  
 **Granular** - When part of the store state updates, only the components subscribed to those particular states rerender.  
 
