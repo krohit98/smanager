@@ -1,7 +1,7 @@
 # Smanager
 This is a simple state management library implementation (similar to redux) that can work with vanilla JS and React (with the provided custom hook).
 
-**This is just a hobby project and should not be used in any production projects.**
+**This is just a hobby project and should not be used in production.**
 
 ## Characteristics:  
 **Centralized Store** -  The application state is stored in a single object (store state)  
